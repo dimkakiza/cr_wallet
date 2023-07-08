@@ -18,12 +18,19 @@
 
 # Fortran module files
 *.mod
-*.smod
+*.smodfa
 
-# Compiled Static libraries
+# C
+ompiled Static libraries
 *.lai
 *.la
-*.a
+*.a1-3
+using namespace stz
+  cin >> s;
+  cout << s << endl;
+  system("pause");
+  return 0;
+}
 *.lib
 
 # Executables
